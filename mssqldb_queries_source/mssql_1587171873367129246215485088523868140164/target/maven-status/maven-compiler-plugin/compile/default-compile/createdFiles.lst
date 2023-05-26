@@ -1,0 +1,4 @@
+com/testsigma/addons/mssqldb/util/MSSqlSelectBaseAction.class
+com/testsigma/addons/mssqldb/util/DatabaseUtil.class
+com/testsigma/addons/web/MSSqlselect.class
+com/testsigma/addons/web/MSSqlValidate.class
